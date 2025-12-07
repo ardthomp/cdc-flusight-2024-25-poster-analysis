@@ -10,24 +10,25 @@ This repository contains all data-processing scripts, analyses, and final figure
 The project assesses 50% and 95% prediction interval (PI) coverage, state-level variation in forecast accuracy, and point forecast performance using linear regression. These results were presented in a scientific poster for INFO 610 (Fall 2025).<br>
 <br>
 🦠 **Repository Structure**<br>
-<br>
-cdc-flusight-2024-25-poster-analysis/<br>
-│<br>
-├── scripts/<br>
-│ ├── analysis.R (Complete R script used to generate figures and analyze data)<br>
-│<br>
-├── figures/<br>
-│ ├── figure1_map.png<br>
-│ ├── figure2_facets.png<br>
-│ ├── figure3_donut50.png<br>
-│ ├── figure3_donut95.png<br>
-│ └── figure4_regressiontable.png<br>
-│<br>
-├── poster/<br>
-│ └── poster.pdf<br>
-│<br>
-├── README.md<br>
-└── .gitignore<br>
+```
+cdc-flusight-2024-25-poster-analysis/
+│
+├── scripts/
+│   └── analysis.R                # Complete R script used to generate figures and perform analyses
+│
+├── figures/
+│   ├── figure1_map.png           # Choropleth map of state-level accuracy
+│   ├── figure2_facets.png        # Accuracy by horizon, faceted by season week
+│   ├── figure3_donut50.png       # Donut chart: 50% PI coverage
+│   ├── figure3_donut95.png       # Donut chart: 95% PI coverage
+│   └── figure4_regressiontable.png   # Liner regression summary table
+│
+├── poster/
+│   └── poster.pdf                # Final academic poster
+│
+├── README.md                     # Documentation and project overview
+└── .gitignore
+```
 <br>
 🦠 **Data Sources**<br>
 <br>
