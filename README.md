@@ -96,9 +96,7 @@ install.packages(c(
 <br>
 🦠 **How to Reproduce the Analysis**<br>
 <br>
-1. Clone the repository:<br>
-<br>
-git clone https://github.com/YOURUSERNAME/cdc-flusight-2024-25-poster-analysis.git<br>
+1. Clone the repository: git clone https://github.com/YOURUSERNAME/cdc-flusight-2024-25-poster-analysis.git<br>
 <br>
 2. Open the project in RStudio.<br>
 <br>
@@ -107,9 +105,7 @@ git clone https://github.com/YOURUSERNAME/cdc-flusight-2024-25-poster-analysis.g
 
 🦠 **Poster**
 <br>
-The final academic poster is located at:<br>
-<br>
-poster/poster.pdf<br>
+The final academic poster is located at: poster/poster.pdf<br>
 <br>
 
 🦠 **License**
