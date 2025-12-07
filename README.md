@@ -1,8 +1,6 @@
-**Forecast vs. Reality: CDC FluSight Performance in the 2024–2025 Flu Season**<br>
-<br>
+## **Forecast vs. Reality: CDC FluSight Performance in the 2024–2025 Flu Season**<br>
 **Analysis, Figures, and Poster Materials for INFO 610 (Fall 2025)** <br>
 **Author: Andrea Thompson**<br>
-<br>
 
 ## 🦠 **Overview**
 <br>
