@@ -104,17 +104,17 @@ git clone https://github.com/YOURUSERNAME/cdc-flusight-2024-25-poster-analysis.g
 <br>
 3. Run analysis.R<br>
 <br>
-🦠 **Poster**<br>
+🦠 **Poster**
 <br>
 The final academic poster is located at:<br>
 <br>
 poster/poster.pdf<br>
 <br>
-🦠 **License**<br>
+🦠 **License**
 <br>
 This project is licensed under the MIT License.<br>
 CDC data remain the property of the CDC.<br>
 <br>
-🦠 **Acknowledgements**<br>
+🦠 **Acknowledgements**
 <br>
 This README.md generated in conjunction with ChatGPT.
