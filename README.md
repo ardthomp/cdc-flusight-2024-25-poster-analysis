@@ -30,7 +30,7 @@ cdc-flusight-2024-25-poster-analysis/
 └── .gitignore
 ```
 <br>
-🦠 **Data Sources**<br>
+🦠 **Data Sources** <br>
 <br>
 Data come from the CDC Epidemic Prediction Initiative FluSight GitHub:<br>
 <br>
@@ -41,7 +41,7 @@ Data come from the CDC Epidemic Prediction Initiative FluSight GitHub:<br>
 CDC FluSight GitHub:<br>
 https://github.com/cdcepi/FluSight-forecast-hub<br>
 <br>
-🦠 **Analytic Summary**<br>
+🦠 **Analytic Summary** <br>
 <br>
 Prediction Interval Coverage<br>
 <br>
